@@ -1,0 +1,5 @@
+images/
+Images/
+*.db
+*.p
+__pycache__/
